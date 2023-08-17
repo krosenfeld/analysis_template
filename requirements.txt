@@ -1,0 +1,8 @@
+pandas
+matplotlib
+openpyxl
+xlrd
+sciris
+scipy
+sphinx
+sphinx-rtd-theme
