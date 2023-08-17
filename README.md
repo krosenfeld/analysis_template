@@ -1,2 +1,2 @@
-# analysis_template
-Template for analysis projects
+# README
+A project with analysis
